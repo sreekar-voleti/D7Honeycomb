@@ -1,0 +1,1 @@
+scp -r sreekarv@niagara.computecanada.ca:/scratch/a/aparamek/sreekarv/CoTiO_undistorted_NP/Hameffs $(pwd)

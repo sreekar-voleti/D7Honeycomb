@@ -1,0 +1,1 @@
+scp -r sreekarv@niagara.computecanada.ca:/scratch/a/aparamek/sreekarv/BaCoAsO/Hameffs $(pwd)
